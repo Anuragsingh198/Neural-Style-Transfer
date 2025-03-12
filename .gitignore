@@ -6,7 +6,7 @@ env/
 __pycache__/
 *.pyc
 *.pyo
-
+Resources/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
